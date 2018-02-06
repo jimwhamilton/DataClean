@@ -6,11 +6,11 @@
 ### In this repository you will find the following files:-
 
 
-CodeBook.md			CodeBook for "final_clean_dataset.txt"
+*CodeBook.md*  -  CodeBook for "final_clean_dataset.txt"
 
-final_clean_dataset.txt		Final cleaned dataset.
+*final_clean_dataset.txt*  -  Final cleaned dataset.
 
-README.md 			This document.
+*README.md*  -  This document.
 
-run_analysis.R			R script used to generate "final_clean_dataset.txt" 
+*run_analysis.R*  -  R script used to generate "final_clean_dataset.txt" 
 
